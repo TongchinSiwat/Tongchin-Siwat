@@ -79,3 +79,37 @@
 > go into the car
 > sit down
 > wait until my ride is at the train station
+> open the door
+> walk out
+> walk until i find the stair case
+> walk
+> take out my card
+> press the card against the system
+> continue walking
+> go up using the escalator
+> wait until the train comes
+> go into the train and sit down
+> wait until my stop comes
+> walk out the train
+> walk to the escalator
+> go down the escalator
+> walk to the other scalator
+> go down the escalator
+> take out my card
+> press it against the scanner
+> walk out
+> walk downstairs
+> go to sian scape
+> wait for the elevator
+> go on the elevator
+> press the 11th floor
+> walk out the elevator
+> wait until someone comes that can open the door while pretending to be slick about it
+> walk to the class
+> open the door
+> go in
+> close the door
+> push the seats 
+> go to my chair
+> sit down
+> 
